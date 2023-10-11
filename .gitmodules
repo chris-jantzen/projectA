@@ -1,0 +1,3 @@
+[submodule "projectCommon"]
+	path = projectCommon
+	url = https://github.com/chris-jantzen/projectCommon.git
